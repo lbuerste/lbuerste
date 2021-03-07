@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently looking for possible contributions
-- 🌱 I’m currently learning Web Development using JS/TS & React
+- 🌱 I’m currently working with & learning Web Development using JS/TS & React
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbuerste&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
